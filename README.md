@@ -11,6 +11,9 @@ ODIN es una plataforma web para Fuerzas del Orden, enfocada en la busqueda de in
 
 - [@Gh3rmy](https://www.github.com/Gh3rmy/)
 - [@Tengu](#)
+- [@Hoonay](#)
+- [@Ornicorrinco](#)
+- [@Desecv](#)
 
 
 ## Funcionalidades
