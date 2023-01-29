@@ -1,5 +1,5 @@
 
-![Logo]([https://i.ibb.co/PQdfsch/logo.png](https://i.ibb.co/1d31VJR/photo-2022-12-11-23-17-15.jpg))
+![Logo](https://i.ibb.co/1d31VJR/photo-2022-12-11-23-17-15.jpg)
 
 
 # ODIN OSINT Framework
